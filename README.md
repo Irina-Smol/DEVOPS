@@ -1,2 +1,1 @@
-# DEVOPS
-Devops philosophy
+# DevOps - искусство управление IT
